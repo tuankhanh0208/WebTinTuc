@@ -1,0 +1,29 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "username": "admin",
+      "passwword": "123"
+    },
+    {
+      "id": 2,
+      "username": "khanh",
+      "passwword": "456"
+    },
+    {
+      "id": "ce55",
+      "username": "admin",
+      "password": "789"
+    },
+    {
+      "id": "d58c",
+      "username": "TuanKhanh",
+      "password": "khanh"
+    },
+    {
+      "id": "772c",
+      "username": "khanhxautrai",
+      "password": "khanh"
+    }
+  ]
+}
