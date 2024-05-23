@@ -1,0 +1,65 @@
+main {
+  padding: 50px 0;
+  min-height: 100vh;
+  background: url(../image/bg_login.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.form {
+  padding: 80px;
+}
+
+@media (max-width: 996px) {
+  .form {
+    width: 100% !important;
+    padding: 20px;
+  }
+}
+
+.form-input {
+  padding: 12px;
+}
+
+.alter {
+  width: fit-content;
+  display: block;
+  padding: 0 4px;
+  margin-inline: auto;
+  background-color: #fff;
+  position: relative;
+  z-index: 2;
+}
+
+.alter-line {
+  top: -10px;
+}
+
+.social-btn {
+  border: 1px solid #ccc;
+  border-radius: 80px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#js-sign-btn {
+  border: 1px solid #ccc;
+  border-radius: 80px;
+  background-color: #00e1ff8a;
+}
+#js-sign-btn:hover {
+  background-color: #00e1ff;
+}
+
+#js-login-btn {
+  border: 1px solid #ccc;
+  border-radius: 80px;
+  background-color: #00e1ff8a;
+}
+
+#js-login-btn:hover {
+  background-color: #00e1ff;
+}
